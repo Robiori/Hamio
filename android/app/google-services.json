@@ -12,7 +12,12 @@
           "package_name": "com.hamio.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "181595692873-8f56verjju9dsjmac0jfnn15i24rkpnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAxT3k7PUCYq1LgdkALOAaV422UIegY9a4"
@@ -20,7 +25,41 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181595692873-8f56verjju9dsjmac0jfnn15i24rkpnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181595692873:android:ac37b26efcbafcee180498",
+        "android_client_info": {
+          "package_name": "com.hamio.hamio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181595692873-8f56verjju9dsjmac0jfnn15i24rkpnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxT3k7PUCYq1LgdkALOAaV422UIegY9a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181595692873-8f56verjju9dsjmac0jfnn15i24rkpnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
